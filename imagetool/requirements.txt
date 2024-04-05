@@ -1,0 +1,5 @@
+django
+djangorestframework
+rembg==2.0.56
+pillow==10.2.0
+python-multipart==0.0.5
